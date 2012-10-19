@@ -1,0 +1,15 @@
+SecApp
+
+AUTHOR: Mauro Parra-Miranda <mauropm@gmail.com>
+Description: An app to help create and share urban intelligence allowing 
+you to create and view all kinds of issues (fire, shotgun, etc), so you 
+can actually see in the screen the important event that you need to cover,
+so you can actually go there in the speediest possible way. 
+
+
+TODO: 
+
+- Finishing integrating with Navicon
+- Creating the ACS infrastructure to support adding/viewing sec incidents. 
+- Refine the addition of issues. 
+
